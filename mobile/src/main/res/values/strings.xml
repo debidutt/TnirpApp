@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OSTM App</string>
+
+    <string name="hello_world">Online Stock Management App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_print">Please Enter Order ID !</string>
+
+    <!--MainActivity-->
+    <string name="txt_welcome">Welcome</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="txt_btn_show">Show</string>
+    <string name="txt_btn_hide">Hide</string>
+    <string name="txt_btn_login">Login</string>
+
+    <!-- PrintActivity-->
+    <string name="hint_order_id">Order Id</string>
+    <string name="hint_cust_name">Customer Name</string>
+    <string name="hint_desc">Description</string>
+    <string name="txt_btn_print">Print</string>
+    <string name="txt_btn_clear">Clear</string>
+    <string name="txt_btn_takephoto">Take Photo</string>
+    <string name="txt_btn_fetch_cust_name">Enter</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_launching_screen">LaunchingScreen</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="header">#02C4E4</color>
+    <color name="button_background">#3E82E5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000</color>
+
+    <color name="colorPrimary">#3E82E5</color>
+    <color name="colorPrimaryDark">#3E82EA</color>
+    <color name="textColorPrimary">#FFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#3E82E5</color>
+    <color name="colorAccent">#3E82FF</color>
+</resources>
